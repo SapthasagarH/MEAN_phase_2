@@ -1,4 +1,4 @@
-                        -----------------------Task Planner------------------
+TASK TRACKER
 						
 						
 	Tools used:
@@ -27,8 +27,5 @@
 		After that it will take the sign-in page,and user has to login using his credentials.
 		Once the user sign-in,it'll shows the all the details of the user with the message "You are signed in successfully". 
 		Throush the angular app i can run this at any time.
-		
-		
-	Thank you!
-	Bhuvan v gowda 
+
 		
